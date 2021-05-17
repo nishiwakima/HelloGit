@@ -1,4 +1,2 @@
 hello git!
-edit test!
-branch test!
-pull test!
+edit git!
